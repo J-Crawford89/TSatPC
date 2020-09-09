@@ -13,6 +13,7 @@ Visual Studio 2019
   <p>Enter or type the repository location: https://github.com/J-Crawford89/TSatPC.git, and then choose Clone. Visual Studio will open the project from the repo.</p>
   <p>Before you begin, update the database in the Package Manager Console to get the seed content.</p>
   <p>The default user is "admin" and password is "Password1@".</p>
+  <p>Admin users may create any content (Characters, Planets, Weapons, etc.). Other users may create contracts. Each character has a default weapon and ship. Each Contract must at least include a character and a planet. Default weapons and ships can be overridden for a contract. The total contract price will be auto-calculated.</p>
 </div>
 
 ## Database Diagram
@@ -20,7 +21,7 @@ View a list of each table in our database in [Database Diagram] (https://dbdiagr
 
 ## Credit
 <div>
-  <p>Stephen Mackey, @J-Crawford89</p>
-  <p>Jonathan Crawford, @SMackeyCoding</p>
+  <p>Stephen Mackey, @SMackeyCoding</p>
+  <p>Jonathon Crawford, @J-Crawford89</p>
   <p>Loretta Tappan, @lorettadtappan</p>
 </div>
